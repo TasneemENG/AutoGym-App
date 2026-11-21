@@ -85,6 +85,18 @@ As the Flutter developer behind the mobile app, my work included:
 
 ---
 
+## 🎯 Personalized Workout Recommendations
+
+AutoGym recommends workout programs and routines personalized to each user's level, equipment, and goals:
+
+<p align="center">
+  <img src="assets/17.jpeg" width="300" alt="Recommended workout programs"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/19.jpeg" width="300" alt="Recommended program details"/>
+</p>
+
+---
+
 ## 📸 App Screenshots
 
 | ![](assets/1.jpeg)  | ![](assets/2.jpeg)  | ![](assets/3.jpeg)  | ![](assets/4.jpeg)  |
